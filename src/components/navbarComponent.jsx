@@ -8,7 +8,7 @@ export default function NavbarComponent() {
             <nav className="navbar navbar-expand-lg bg-body-tertiary">
                 <div className="container-fluid">
                     {/* <a href="#" className="navbar-brand">FinproH8</a> */}
-                    <Link className="navbar-brand" to="/">FinproH8</Link>
+                    <Link className="navbar-brand" to="/">FinproH8mANTAP</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                     </button>
