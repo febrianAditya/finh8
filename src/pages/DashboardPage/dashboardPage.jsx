@@ -13,8 +13,7 @@ export default function DashboardPage() {
     
     useEffect(() => {
         handleHitApi()
-    }, [])
-
+    })
 
     const handleHitApi = async() => {
         try {
